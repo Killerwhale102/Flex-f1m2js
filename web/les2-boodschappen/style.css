@@ -22,6 +22,10 @@ h2{
     margin: 0 0 10px 0;
 }
 
+.rood {
+    color: red;
+}
+
 button{
     background-color: lightskyblue;
     color: navy;
