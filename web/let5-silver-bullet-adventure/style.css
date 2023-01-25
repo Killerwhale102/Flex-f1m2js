@@ -1,0 +1,22 @@
+body{
+    background-color: burlywood;
+}
+
+#container{
+    background-color: beige;
+    width: 900px;
+    height: 600px;
+    margin: 100px auto auto auto;
+    display: grid;
+    grid-template-columns: auto auto;
+    border: 10px inset gray;
+}
+
+#myInteraction{
+    padding: 10px;
+}
+
+
+img{
+    height: 600px;
+}

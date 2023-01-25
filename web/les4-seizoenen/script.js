@@ -1,5 +1,5 @@
-const myTitle = document.getElementById("myTitle")
-const myImage = document.getElementById("myImage")
+const myTitle = document.getElementById("myTitle");
+const myImage = document.getElementById("myImage");
 
 let seizoenen = [
     {
